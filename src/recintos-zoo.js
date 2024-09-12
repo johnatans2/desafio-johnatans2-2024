@@ -1,4 +1,4 @@
-//Ficou um pouco confuso de entender de fato o que vocês queriam, queriam um sistema que fosse usado apenas uma vez? Passando os dois valores de entrada e dando o resultado final; ou queriam um sistema mais complexo, onde poderia ser utilizado várias vezes e armazenasse os dados dos recintos? Como não ficou claro, optei pelo que parecia mais claro, o sistema mais simples.
+//Ficou um pouco confuso de entender de fato o que vocês queriam. Queriam um sistema que fosse usado apenas uma vez? Passando os dois valores de entrada e dando o resultado final; ou queriam um sistema mais complexo, onde poderia ser utilizado várias vezes e armazenasse os dados dos recintos? Como não ficou claro, optei pelo que parecia mais claro, o sistema mais simples.
 class RecintosZoo {
     analisaRecintos(animal, quantidade) {
         //Declaração de Variáveis
